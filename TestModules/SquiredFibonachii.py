@@ -10,4 +10,3 @@ for i in range(limit):
     a = b
     b = sum
 
-
